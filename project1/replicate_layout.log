@@ -1,0 +1,21 @@
+02-21 22:07:21 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 392:Plugin executed on: 'win32'
+02-21 22:07:21 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 393:Plugin executed with python version: '3.9.16 (main, Oct 13 2023, 05:50:11) [MSC v.1936 64 bit (AMD64)]'
+02-21 22:07:21 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 394:KiCad build version: 7.0.10
+02-21 22:07:21 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Plugin version: 2.1.3
+02-21 22:07:21 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 396:Frame repr: <wx._core.Frame object at 0x0000017B3B9113A0>
+02-21 22:07:21 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 420:Preparing replicator with U61 as a reference
+02-21 22:07:21 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+02-21 22:07:21 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 468:source anchor footprint is 'U61'
+Located on: ['amp1']
+With filenames: ['amp.kicad_sch']
+With sheet_id:['amp1']
+02-21 22:07:21 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:Corresponding footprints are 
+[('U61', ['amp1']), ('U65', ['amp5']), ('U67', ['amp7']), ('U64', ['amp4']), ('U66', ['amp6']), ('U62', ['amp2']), ('U63', ['amp3']), ('U68', ['amp8'])]
+02-21 22:07:21 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 487:Showing dialog
+02-21 22:07:21 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'amp1', file:'amp.kicad_sch'
+02-21 22:07:21 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['amp2'], ['amp3'], ['amp4'], ['amp5'], ['amp6'], ['amp7'], ['amp8']]
+02-21 22:07:21 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['amp1']
+02-21 22:07:21 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+02-21 22:07:21 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 493:Toolbar position: wx.Point(3200, 627)
+02-21 22:07:21 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 498:Dialog position: wx.Point(2761, 627)
+02-21 22:07:22 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 321:User canceled the dialog

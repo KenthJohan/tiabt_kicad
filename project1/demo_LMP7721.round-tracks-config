@@ -1,0 +1,10 @@
+Default	False	2.0	3
+12V	False	2.0	3
+5V	False	2.0	3
+GLOBALGND	False	2.0	3
+OLED	False	2.0	3
+OPD_CATHODE	True	1.0	3
+REFGND	False	2.0	3
+Signal	False	2.0	3
+VL	False	2.0	3
+False	True	False

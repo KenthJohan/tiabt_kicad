@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "tiabt")(type "KiCad")(uri "${KIPRJMOD}/../sym/tiabt.kicad_sym")(options "")(descr ""))
+  (lib (name "max6070")(type "KiCad")(uri "${KIPRJMOD}/../sym/max6070.kicad_sym")(options "")(descr ""))
+  (lib (name "OPAx277")(type "KiCad")(uri "${KIPRJMOD}/../sym/OPAx277.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP356x")(type "KiCad")(uri "${KIPRJMOD}/../sym/MCP356x.kicad_sym")(options "")(descr ""))
+  (lib (name "ADG658")(type "KiCad")(uri "${KIPRJMOD}/../sym/ADG658.kicad_sym")(options "")(descr ""))
+  (lib (name "ADG1438")(type "KiCad")(uri "${KIPRJMOD}/../sym/ADG1438.kicad_sym")(options "")(descr ""))
+  (lib (name "LMP7721")(type "KiCad")(uri "${KIPRJMOD}/../sym/LMP7721.kicad_sym")(options "")(descr ""))
+  (lib (name "SPX2941")(type "KiCad")(uri "${KIPRJMOD}/../sym/SPX2941.kicad_sym")(options "")(descr ""))
+  (lib (name "LD29300")(type "KiCad")(uri "${KIPRJMOD}/../sym/LD29300.kicad_sym")(options "")(descr ""))
+  (lib (name "LDL212")(type "KiCad")(uri "${KIPRJMOD}/../sym/LDL212.kicad_sym")(options "")(descr ""))
+)
