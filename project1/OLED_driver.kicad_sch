@@ -992,7 +992,7 @@
     (pin "1" (uuid 64c9fe40-1c79-4fa7-87c4-6cf9dfe3c9e4))
     (pin "2" (uuid ada529d0-86e3-42bd-a0c5-a02b96757ba0))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8"
           (reference "C81") (unit 1)
         )
@@ -1042,7 +1042,7 @@
     (pin "7" (uuid 68e894b7-105e-446a-8211-79f5af048edd))
     (pin "8" (uuid daa0c85a-12c5-4f7f-b289-9481b388e575))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8"
           (reference "U41") (unit 1)
         )
@@ -1086,7 +1086,7 @@
     (pin "1" (uuid 51994e92-35cd-4958-b626-f5b0d1bc36cb))
     (pin "2" (uuid caf7805b-2487-4fcf-9212-36be32c9705f))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8"
           (reference "C79") (unit 1)
         )
@@ -1130,7 +1130,7 @@
     (pin "1" (uuid 8980ee07-e4d1-4340-b1d3-65c3ee7878b0))
     (pin "2" (uuid 4a015537-25f6-427a-97ed-c475e9bf6b06))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8"
           (reference "C80") (unit 1)
         )
@@ -1174,7 +1174,7 @@
     (pin "1" (uuid abbf149b-3d6d-4192-a41e-b9b458535aeb))
     (pin "2" (uuid 85dbd0c6-b2fa-44e8-af30-3a53a49af928))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8"
           (reference "C82") (unit 1)
         )
@@ -1218,7 +1218,7 @@
     (pin "1" (uuid 4fff896b-f033-40ef-a426-3da5cd61b3f6))
     (pin "2" (uuid fdf98953-6455-44d9-a1b0-80038f6eea10))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8"
           (reference "C95") (unit 1)
         )
@@ -1250,7 +1250,7 @@
     (property "Reference" "R20" (at 170.18 132.08 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1K" (at 172.72 132.08 90)
+    (property "Value" "750" (at 172.72 132.08 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 170.942 130.81 90)
@@ -1262,7 +1262,7 @@
     (pin "1" (uuid 165b0cee-7d8a-48d6-9dbc-46a79fcab1a6))
     (pin "2" (uuid 93a33113-23e2-4d5f-b781-8eba364a9e69))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8"
           (reference "R20") (unit 1)
         )
@@ -1306,7 +1306,7 @@
     (pin "1" (uuid faaa7964-d4da-4441-a3b5-7537716e4dcf))
     (pin "2" (uuid 4a930492-1042-4698-92c1-9a9c4354c450))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8"
           (reference "C137") (unit 1)
         )
@@ -1350,7 +1350,7 @@
     (pin "1" (uuid 06a4f74e-b802-476a-9b89-b14dba70d96b))
     (pin "2" (uuid 9d051093-2866-4a29-88d8-990c0bd47dfe))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8"
           (reference "C83") (unit 1)
         )
@@ -1394,7 +1394,7 @@
     (pin "1" (uuid 553dc7f3-136e-45ba-87a6-9c3a11373bde))
     (pin "2" (uuid 2d36a27e-137c-495e-a147-08143113fdbd))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8"
           (reference "C130") (unit 1)
         )
@@ -1439,7 +1439,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8"
           (reference "U54") (unit 1)
         )
@@ -1483,7 +1483,7 @@
     (pin "1" (uuid b066ea23-04ed-4e1d-80f3-4a49fe6412da))
     (pin "2" (uuid dfe08319-0609-4212-b3fb-c1da5bb9b3f2))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8"
           (reference "C123") (unit 1)
         )
@@ -1542,7 +1542,7 @@
     (pin "8" (uuid 515c51a2-1064-4efc-be72-37338603ac42))
     (pin "9" (uuid bb8c8059-09ec-4067-a602-d3d48479225f))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8"
           (reference "U43") (unit 1)
         )
@@ -1586,7 +1586,7 @@
     (pin "1" (uuid d09a8ade-c864-4443-9c77-e088f57d583a))
     (pin "2" (uuid a0c97762-c8d9-4aa5-b663-e4465e9bf31a))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8"
           (reference "R63") (unit 1)
         )
@@ -1630,7 +1630,7 @@
     (pin "1" (uuid ee3c96a3-10cc-4c10-9e5f-092cb2839fc0))
     (pin "2" (uuid aa8f02d7-796e-409b-a656-93ec75ea5dd3))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8"
           (reference "R56") (unit 1)
         )
@@ -1692,7 +1692,7 @@
     (pin "7" (uuid d26c369c-ed79-4325-b67e-1fd453e9e78d))
     (pin "8" (uuid 2794485a-47ac-4d6f-9be8-706e5b43e897))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8"
           (reference "U42") (unit 1)
         )

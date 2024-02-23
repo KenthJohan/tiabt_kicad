@@ -56,12 +56,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "solder_mask_bridge|157000000|106421573|fde1850b-b5cb-49ca-a376-da86cef1fcdb|7b007478-1c86-4940-b389-ccadbbcae34a",
-        "solder_mask_bridge|157000000|91015900|c2742cdc-3e1e-4dfb-88ac-707e2556646a|7b007478-1c86-4940-b389-ccadbbcae34a",
-        "solder_mask_bridge|157000000|91015927|c2742cdc-3e1e-4dfb-88ac-707e2556646a|7b007478-1c86-4940-b389-ccadbbcae34a",
-        "solder_mask_bridge|157000000|91015927|fde1850b-b5cb-49ca-a376-da86cef1fcdb|7b007478-1c86-4940-b389-ccadbbcae34a"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -424,7 +419,7 @@
     ]
   },
   "meta": {
-    "filename": "demo_LMP7721.kicad_pro",
+    "filename": "project1.kicad_pro",
     "version": 1
   },
   "net_settings": {

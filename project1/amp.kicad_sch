@@ -1036,7 +1036,7 @@
     (pin "7" (uuid 1d6ee74c-250a-468d-9af5-1050b125e4b4))
     (pin "8" (uuid c7118346-0fa5-4742-a4e7-2c9c56652224))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68"
           (reference "U10") (unit 1)
         )
@@ -1083,7 +1083,7 @@
     (pin "1" (uuid f9f6ae73-6b29-4e93-821d-597ed7284130))
     (pin "2" (uuid 400f4c60-805b-400e-ba60-cad5a0900d1b))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68"
           (reference "C49") (unit 1)
         )
@@ -1136,7 +1136,7 @@
     (pin "7" (uuid b85642e8-1cb0-421a-a884-6b95fb4edb27))
     (pin "8" (uuid 988a8499-a6f4-4d4d-a3d0-645184471647))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68"
           (reference "U12") (unit 1)
         )
@@ -1171,7 +1171,7 @@
     (property "Reference" "R1" (at 158.75 77.47 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "500K" (at 158.75 80.01 0)
+    (property "Value" "510K" (at 158.75 80.01 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "tiabt:TIA_R_0603_1608Metric" (at 157.988 78.74 90)
@@ -1183,7 +1183,7 @@
     (pin "1" (uuid 0a313fdb-f64c-4d8a-a065-1078cde2b00f))
     (pin "2" (uuid 1f34af10-5e31-4a01-8186-7f95b7562e8e))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68"
           (reference "R1") (unit 1)
         )
@@ -1231,7 +1231,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68"
           (reference "U61") (unit 1)
         )
@@ -1278,7 +1278,7 @@
     (pin "1" (uuid 948abcc6-32a1-47ed-a161-04d9b9ae2bc7))
     (pin "2" (uuid f3956d0f-861e-4290-85be-ef85d2bd99ce))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68"
           (reference "C2") (unit 1)
         )
@@ -1343,7 +1343,7 @@
     (pin "7" (uuid 20a9658a-f5a2-42dd-9cc7-469468293553))
     (pin "8" (uuid 3f030acc-1f70-43ab-953f-f2e0608ae825))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68"
           (reference "U11") (unit 1)
         )
@@ -1390,7 +1390,7 @@
     (pin "1" (uuid 6da18890-51d6-4687-a365-8f99261ee299))
     (pin "2" (uuid 1f25c41d-d376-4710-acce-172fcc6d19b9))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68"
           (reference "C41") (unit 1)
         )
@@ -1437,7 +1437,7 @@
     (pin "1" (uuid 9d78df87-1526-429f-b9cc-885b33dc47c2))
     (pin "2" (uuid a6b50f13-c4a3-4c6a-830a-3793ffbbcb33))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68"
           (reference "R9") (unit 1)
         )
@@ -1484,7 +1484,7 @@
     (pin "1" (uuid f06f62b8-0c9d-4071-b3dd-24002c402449))
     (pin "2" (uuid 69bcfa85-d001-4431-8833-f8f9bf5fbbb0))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68"
           (reference "C16") (unit 1)
         )
@@ -1531,7 +1531,7 @@
     (pin "1" (uuid 923edfbc-d8d1-4ad7-ae9b-0e510cb60a05))
     (pin "2" (uuid 92a5b4fc-9ae4-434d-bff8-05aa52faa775))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68"
           (reference "R46") (unit 1)
         )
@@ -1578,7 +1578,7 @@
     (pin "1" (uuid 4ef2c00e-064a-4a21-a224-972e5dca64af))
     (pin "2" (uuid 131835c7-84fd-491e-947e-ad801ff5bfde))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68"
           (reference "C17") (unit 1)
         )
@@ -1625,7 +1625,7 @@
     (pin "1" (uuid 064fef1e-db09-46e2-88b2-213acf683221))
     (pin "2" (uuid a7119b22-f521-41bc-886b-ab8d8fce0123))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68"
           (reference "C20") (unit 1)
         )
@@ -1672,7 +1672,7 @@
     (pin "1" (uuid 49de6479-e22d-4d79-bd1d-83bc450cb43f))
     (pin "2" (uuid 7f15c9be-0024-41bd-b859-5438d6349464))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68"
           (reference "R7") (unit 1)
         )
@@ -1719,7 +1719,7 @@
     (pin "1" (uuid 9d029ae1-4a67-4ef8-9be6-3a17e5265cd1))
     (pin "2" (uuid 086aa4b3-602c-4ebe-bb50-1f45715f7312))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68"
           (reference "R10") (unit 1)
         )
@@ -1766,7 +1766,7 @@
     (pin "1" (uuid 92a3f97c-4c4a-469a-9ee3-de4a28e12b82))
     (pin "2" (uuid 2358283b-cab3-4915-887b-161e3170a1fc))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68"
           (reference "C18") (unit 1)
         )
@@ -1813,7 +1813,7 @@
     (pin "1" (uuid aa3bac0c-292a-4950-bc85-67d51b372a70))
     (pin "2" (uuid e784101f-0e09-40e0-8eb6-9115a11fd532))
     (instances
-      (project "demo_LMP7721"
+      (project "project1"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68"
           (reference "C1") (unit 1)
         )
