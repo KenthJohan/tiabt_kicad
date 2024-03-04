@@ -18,9 +18,9 @@ Specification
 
 
 ## Board
-![flecs](doc/board.png)
+![board](./doc/board.png)
 
 
 ## Box
 
-![flecs](doc/box.png)
+![box](./doc/box.png)
