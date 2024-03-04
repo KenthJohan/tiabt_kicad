@@ -25,6 +25,10 @@ Specification
 
 ![box](./doc/box.PNG)
 
-## 1µA plus 10pA steps
+## 10pA measuement of one channel
+* Feedback resistor is `100Mohm`
+* Current subtractor, `1µA` 
+* `1µA` plus `n*10pA`, n=1,2,3,4,5,6 steps from SMU with coaxial cable
+* SMU is Keysight B2910BL
 
 ![box](./doc/microamp1_plus_10pA_steps.png)
