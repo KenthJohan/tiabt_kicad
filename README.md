@@ -18,9 +18,9 @@ Specification
 
 
 ## Board
-![board](./doc/board.png)
+![board](./doc/board.PNG)
 
 
 ## Box
 
-![box](./doc/box.png)
+![box](./doc/box.PNG)
